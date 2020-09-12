@@ -1,3 +1,61 @@
 Maick Rodrigues Santana
-
 RA: 1460682023019
+
+Questão 01
+
+sistema computacional = google maps / https://www.google.com/maps
+
+Dado:
+Colinas shopping
+ 
+Imformação: 
+Av. São João, 2200 - Jardim das Colinas, São José dos Campos
+SP, 12242-000
+(12) 3924-4200
+Abre as 12:00
+
+Conhecimento:
+Partindo da minha casa(Rua Lamartine Maia da Silva Torres,177) a pé=
+Via Av. Cidade Jardim, 1hora e 50 minutos
+Via Av. Cidade Jardim e Av. Salinas, 1hora e 49 minutos
+
+Questão 02
+
+M =77 (decimal) - 01001101 (binario)
+a =97 (decimal) - 01100001 (binario)
+i =105(decimal) - 01101001 (binario)
+c =99 (decimal) - 01100011 (binario)
+k =107(decimal) - 01101011 (binario)
+
+S =83 (decimal) - 01010011 (binario)
+a =97 (decimal) - 01100001 (binario)
+n =110(decimal) - 01101110 (binario)
+t =116(decimal) - 01110100 (binario)
+a =97 (decimal) - 01100001 (binario)
+n =110(decimal) - 01101110 (binario)
+a =97 (decimal) - 01100001 (binario)
+
+Saida:
+01001101
+01100001
+01101001
+01100011
+01101011 
+
+01010011
+01100001
+01101110
+01110100
+01100001
+01101110
+01100001
+
+Questão 03
+
+Site:
+https://iqoption.com/pt
+
+Este site obtem um protocolo seguro(https) e criptografia de 2046 BITS
+A criptografia tem como função asegurar que tudo que envio 
+apartir do meu navegado para o servidor da iq option não seja
+roubado por terceiros. 
